@@ -1,7 +1,10 @@
 # Simple-Golang-Calculator
 Just a very simple and "fast" go calculator i made on 20 mins or less
+
 First number, second number and operator (first operator second)
+
 Example: 25 50 add (25 + 50)
+
 Operator types: add, rest, multiply, divide (may add more in the future
 
 # Usage (Golang .go file)
